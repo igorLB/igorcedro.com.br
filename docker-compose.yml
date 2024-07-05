@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  web:
+    image: cedroigor/igorcedro.com.br:latest
+    build:
+      context: .
