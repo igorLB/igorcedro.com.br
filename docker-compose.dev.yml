@@ -1,0 +1,9 @@
+services:
+  web:
+    image: ghcr.io/igorlb/igorcedro.com.br:latest
+    build:
+      context: .
+    ports:
+      - "86:80"
+    volumes:
+      - .:/usr/share/nginx/html

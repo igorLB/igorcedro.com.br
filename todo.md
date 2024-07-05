@@ -1,0 +1,3 @@
+- adicionar versão em inglês
+- adicionar mais projetos pessoais
+  - mudar de site-currículo para site-portifólio, ou ambos.
